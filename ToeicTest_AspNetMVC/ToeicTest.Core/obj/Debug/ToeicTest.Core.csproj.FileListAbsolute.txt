@@ -1,0 +1,13 @@
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\ToeicTest.Core.dll
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\ToeicTest.Core.pdb
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\obj\Debug\ToeicTest.Core.csproj.AssemblyReference.cache
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\obj\Debug\ToeicTest.Core.csproj.CoreCompileInputs.cache
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\obj\Debug\ToeicTest.Core.dll
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\obj\Debug\ToeicTest.Core.pdb
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\ToeicTest.Core.dll.config
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\EntityFramework.dll
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\EntityFramework.xml
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\obj\Debug\ToeicTest.Core.csproj.CopyComplete
+D:\Sample\Sell\toeic-test\ToeicTest\ToeicTest.Core\bin\Debug\System.Data.Common.dll
